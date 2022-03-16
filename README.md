@@ -7,9 +7,9 @@ Taking into account the contracts that have been activated and the contracts tha
 - For each group of people (citizienship, age, sex, level of education) that has activated a contract, what is the percentage of them that have activated a extendable contract?
 - Which group was the most successful at getting its own contract extended?
 
-My experiment is completely explained and showed in a single Jupyter notebook (Final.ipynb), but there are also different smaller notebooks (in a folder called Preproc) in which I show how I modified the original dataset in order to use them for the experiment. 
-In the Datasets folder there will be a readme file with a link to the datasets that I used and their sources.
+My experiment is completely explained and showed in a single Jupyter notebook (`Final.ipynb`), but there are also different smaller notebooks (in a folder called `Preproc`) in which I show how I modified the original dataset in order to use them for the experiment. 
+In the `Datasets` folder there will be a readme file with a link to the datasets that I used and their sources.
 
-In order to replicate the experiment it is sufficient to download the transformed datasets, indicate in the Final notebook the path in which they are stored, and then execute the following istructions. This way there is no need to actually execute the notebooks in the Preproc folder and can just be read. Considering the size of the original datasets, this saves some time.
+In order to replicate the experiment it is sufficient to download the transformed datasets, indicate in the `Final` notebook the path in which they are stored, and then execute the following istructions. This way there is no need to actually execute the notebooks in the `Preproc` folder and they can just be read. Considering the size of the original datasets, this saves some time.
 
-In alternative, it is of course possible to start from the Preproc folder and obtain the trasformed datasets from there.
+In alternative, it is of course possible to start from the `Preproc` folder and obtain the trasformed datasets from there.
