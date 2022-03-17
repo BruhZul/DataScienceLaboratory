@@ -3,9 +3,8 @@ Group R - Rotoloni Gabriele n°733421
 
 ### Laboratory 1
 
-Taking into account the contracts that have been activated and the contracts that have been extended in Lombardy, I will try to answer the following questions:
-- For each group of people (citizienship, age, sex, level of education) that has activated a contract, what is the percentage of them that have activated a extendable contract?
-- Which group was the most successful at getting its own contract extended?
+Taking into account the contracts that have been activated and the contracts that have been extended in Lombardy, I will try to answer the following question:
+- Which group of people (citizienship, age, sex, level of education) was the most successful at getting its own contract extended?
 
 My experiment is explained and showed in the Jupyter notebook `Final.ipynb`, but there is also a different notebooks (in the `Preproc` folder) in which I show how I modified the original dataset in order to use them for the experiment. 
 In the `Datasets` folder there will be a readme file with a link to the datasets that I used and their sources.
