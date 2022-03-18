@@ -4,7 +4,9 @@ https://drive.google.com/drive/folders/12s3YgpOKxnlDeoo2bW2sSr0tVlLHpRcJ?usp=sha
 
 ### Original datasets:
 - Rapporti_di_lavoro_attivati.csv
+   - Source: https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-attivati/qbau-cyuc
 - Rapporti_di_lavoro_prorogati.csv
+   - Source: https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-prorogati/chng-cman
 
 ### Transformed datasets:
 - Transformed_lavori_attivati.csv
