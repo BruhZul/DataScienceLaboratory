@@ -5,4 +5,5 @@
 
 - The notebook Transformation contains two parts: the first one transform the two original datasets in the two smaller dataset for analysis, the second one creates the reduced and trasformed version of the two sets for training the model.
 - The notebook Analysis contains analysis e visualizations of the values from the first part of the trasformation notebook.
-- The notebook M
+- The notebook ML-model contain the results and analysis of the clustering model on the two reduced datasets
+- The presentation model contains the presentation code. The HTML file contains the presentation.
